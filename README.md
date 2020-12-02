@@ -17,14 +17,13 @@ Search for albums, songs, artists, etc ... with the spotify API
 ```
 git clone https://github.com/rafeldev/Spotify-Api-with-React-Recoil
 ```
-
+2. **Move to directory**: 
+```
+cd spotify-recoil
+```
 2. **Install dependencies**: 
 ```
 npm install
-```
-3. **Move to directory**: 
-```
-cd spotify-recoil
 ```
 4. **execute program**: 
 ```
