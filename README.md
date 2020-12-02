@@ -55,13 +55,13 @@ npx create-react-app my-app
 ```
 npm install recoil
 ```
-2.1. **with yarn**: 
+**with yarn**: 
 ```
 yarn add recoil
 ```
 ## And then use it
 
-- [Documentation](https://recoiljs.org/docs/introduction/getting-started)
+- [Documentation Recoil.js](https://recoiljs.org/docs/introduction/getting-started)
 
 ## Help us to share
 
