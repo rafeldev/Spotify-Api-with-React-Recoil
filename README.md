@@ -2,69 +2,70 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Buscador de albumes, canciones, artistas, etc... con la API de spotify
 
-In the project directory, you can run:
+## Built with 🛠️
 
-### `yarn start`
+- React
+- React Router
+- React Hooks
+- Recoil
+- CSS
+## Installation 🔨
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Clone Project**: 
+```
+git clone https://github.com/rafeldev/Spotify-Api-with-React-Recoil
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. **Install dependencies**: 
+```
+npm install
+```
+3. **Move to directory**: 
+```
+cd spotify-recoil
+```
+4. **execute program**: 
+```
+npm run start
+```
 
-### `yarn test`
+## Authors ✒️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Thanks to those who worked on the project and made every effort to achieve the expected result._
 
-### `yarn build`
+- **Rafael Alvarez** _Frontend Dev_ [LinkedIn](https://www.linkedin.com/in/rafedev/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## API used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What is Recoil.js?
 
-### `yarn eject`
+- Recoil is a state management library for React, so you need to have React installed and running to use Recoil. The easiest and recommended way for bootstrapping a React application is to use Create React App:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## How to use?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Create your app**: 
+```
+npx create-react-app my-app
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+2. **Install Recoil**: 
+```
+npm install recoil
+```
+2.1. **with yarn**: 
+```
+yarn add recoil
+```
+## And then use it
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Documentation](https://recoiljs.org/docs/introduction/getting-started)
 
-## Learn More
+## Help us to share
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Tell others about the project 📢
+- Invite a beer 🍺 or coffee ☕ to someone on the team.
+- Thank you very much to the team of Platzi Master for giving us the opportunity to be part of the 0.1% of the best students 🤓.
