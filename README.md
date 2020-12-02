@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Search spotify api with React + Recoil
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Buscador de albumes, canciones, artistas, etc... con la API de spotify
+Search for albums, songs, artists, etc ... with the spotify API
 
 ## Built with 🛠️
 
